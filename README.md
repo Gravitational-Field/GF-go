@@ -1,6 +1,36 @@
 # GF-go
 
-【1】 **[01-go语言基础知识](01-go语言基础知识.md)**
+# 内容大纲
+
+[0.Go初探](0.Go初探.md)
+
+[1.数据类型、关键字、标识符](1.数据类型、关键字、标识符.md)
+
+[2.变量、常量、枚举 ](2.变量、常量、枚举.md)
+
+[3.运算符、控制语句](3.运算符、控制语句.md)
+
+[4.字典、字符串](4.字典、字符串.md)
+
+[5.数组、切片](5.数组、切片.md)
+
+[6.函数](6.函数.md)
+
+[7.结构体、方法、接口](7.结构体、方法、接口.md)
+
+[8.包管理](8.包管理.md)
+
+[9.异常处理](9.异常处理.md)
+
+[10.反射机制](10.反射机制.md)
+
+[11.单元测试](11.单元测试.md)
+
+[12.并发编程](12.并发编程.md)
+
+
+
+
 
 
 
@@ -10,13 +40,13 @@
 
 ## 手册
 
-
+1. [go语言圣经](https://books.studygolang.com/gopl-zh/)
 
 ## 网页
 
-1. [Go 语言教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/go/go-tutorial.html)  **by 菜鸟教程**
-2. [Go语言入门教程（原C语言中文网） (biancheng.net)](http://c.biancheng.net/golang/)  **by C语言中文网**
-3. [Go语言 30 分钟入门教程 ](https://studygolang.com/articles/13958)  **by go语言中文网**
+1. [Go 语言教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/go/go-tutorial.html)  **by 菜鸟教程**   粗略教程
+2. [Go语言入门教程（原C语言中文网） (biancheng.net)](http://c.biancheng.net/golang/)  **by C语言中文网**  非常细的教程
+3. [Go语言 30 分钟入门教程 ](https://studygolang.com/articles/13958)  **by go语言中文网 **   更粗略的教程
 
 
 
