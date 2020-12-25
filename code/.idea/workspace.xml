@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="424a828b-a08a-488d-af3f-96918f800455" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../11.单元测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/../11.单元测试.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utest/complex_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/utest/complex_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utest/db/db_mock.go" beforeDir="false" afterPath="$PROJECT_DIR$/utest/db_mock.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utest/db/db_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/utest/db_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utest/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/utest/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utest/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/utest/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go-code/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../../Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1m7vaQH2k0klyGrEQirKmFCKJ2D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Keen\Desktop\Project\Github\GF-go\code\utest" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestAdd in complex_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <working_directory value="$PROJECT_DIR$/utest" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/utest/complex_test.go" />
+      <pattern value="^\QTestAdd\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestAdd in complex_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

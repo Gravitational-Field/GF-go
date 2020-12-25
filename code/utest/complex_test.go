@@ -4,7 +4,7 @@
  * @LastEditors: 光城
  * @LastEditTime: 2020-11-08 15:07:00
  * @Description:
- * @FilePath: /go-talent/code/utest/complex_test.go
+ *
  */
 package utest
 
@@ -14,6 +14,7 @@ import (
 	"testing"
 )
 
+//@FilePath: /go-talent/code/utest/complex_test.go
 func TestAdd(t *testing.T) {
 	type args struct {
 		a Complex
@@ -56,5 +57,26 @@ func BenchmarkComplex(t *testing.B) {
 
 	for i := 0; i < t.N; i++ {
 		fmt.Sprintf("hello")
+	}
+}
+
+func TestAdd1(t *testing.T) {
+	type args struct {
+		a Complex
+		b Complex
+	}
+	tests := []struct {
+		name string
+		args args
+		want *Complex
+	}{
+		// TODO: Add test cases.
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := Add(tt.args.a, tt.args.b); !reflect.DeepEqual(got, tt.want) {
+				t.Errorf("Add() = %v, want %v", got, tt.want)
+			}
+		})
 	}
 }
