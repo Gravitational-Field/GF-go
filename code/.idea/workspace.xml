@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="424a828b-a08a-488d-af3f-96918f800455" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../11.单元测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/../11.单元测试.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utest/complex_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/utest/complex_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utest/db/db_mock.go" beforeDir="false" afterPath="$PROJECT_DIR$/utest/db_mock.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utest/db/db_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/utest/db_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utest/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/utest/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utest/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/utest/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrency/waitgroup/waitgroup.go" beforeDir="false" afterPath="$PROJECT_DIR$/concurrency/waitgroup/waitgroup.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go-code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go-code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../utest/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,23 +45,58 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Keen\Desktop\Project\Github\GF-go\code\utest\db" />
       <recent name="C:\Users\Keen\Desktop\Project\Github\GF-go\code\utest" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="TestAdd in complex_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build rwmutex.go">
+    <configuration name="go build goroutines.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="code" />
-      <working_directory value="$PROJECT_DIR$/utest" />
-      <framework value="gotest" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/concurrency/goroutines/goroutines.go" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/utest/complex_test.go" />
-      <pattern value="^\QTestAdd\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build mutex.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/concurrency/mutex/mutex.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build once.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/concurrency/once/once.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build rwmutex.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/concurrency/mutex/rwmutex.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build waitgroup.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/concurrency/waitgroup/waitgroup.go" />
+      <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestAdd in complex_test.go" />
+        <item itemvalue="Go Build.go build rwmutex.go" />
+        <item itemvalue="Go Build.go build mutex.go" />
+        <item itemvalue="Go Build.go build once.go" />
+        <item itemvalue="Go Build.go build waitgroup.go" />
+        <item itemvalue="Go Build.go build goroutines.go" />
       </list>
     </recent_temporary>
   </component>
@@ -82,5 +114,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

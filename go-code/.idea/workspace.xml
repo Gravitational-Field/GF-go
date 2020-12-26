@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d21746-fed0-4093-840f-015030c84a82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../11.单元测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/../11.单元测试.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/utest/complex_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../code/utest/complex_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/utest/db/db_mock.go" beforeDir="false" afterPath="$PROJECT_DIR$/../code/utest/db_mock.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/utest/db/db_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/../code/utest/db_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/utest/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../code/utest/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code/utest/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/../code/utest/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../utest/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

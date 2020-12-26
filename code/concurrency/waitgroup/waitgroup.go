@@ -19,7 +19,7 @@ import (
 // 注意，等待组必须通过指针传递给函数。
 func worker(id int, wg *sync.WaitGroup) {
 
-	defer wg.Done()
+	defer wg.Done() // 将计数器每次减1
 
 	fmt.Printf("Worker %d starting\n", id)
 
@@ -32,9 +32,9 @@ func main() {
 	var wg sync.WaitGroup
 
 	for i := 1; i <= 5; i++ {
-		wg.Add(1)
+		wg.Add(1)  //计数器设置为1
 		go worker(i, &wg)
 	}
 
-	wg.Wait()
+	wg.Wait() //阻塞代码运行，直到计数器减0
 }
